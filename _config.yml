@@ -11,7 +11,7 @@ tagline:          'A fansite'
 description:      'A fansite for the Earthsea saga, written by <a href="http://www.ursulakleguin.com/" target="_blank">Ursula k. Leguin</a>.'
 url:                 https://premachu.github.io
 paginate:            2 # number of posts per page
-baseurl:             hyde/
+baseurl:             /hyde/
 
 author:
   name:           'Premachu'
