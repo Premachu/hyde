@@ -6,16 +6,16 @@ highlighter:      rouge
 permalink:         pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Earthsea
+tagline:          'A fansite'
+description:      'A fansite for the Earthsea saga, written by <a href="http://www.ursulakleguin.com/" target="_blank">Ursula k. Leguin</a>.'
 url:                 https://premachu.github.io
 paginate:            5
 baseurl:             /hyde/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Premachu'
+  url:            https://premachu.github.io
 
 # Custom vars
 version:          3.0
