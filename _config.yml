@@ -22,7 +22,7 @@ homepostlimit: 2
 
 # Disqus comments:
 disqus:           true
-shortname:        homerhanumatgithubioknitrlanyon
+shortname:        premachu.disqus.com
 
 # Custom vars
 version:          3.0
