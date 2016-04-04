@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to get hyde/lanyon working with project pages
+title: Embedding images
 ---
 
 This is a post testing embedded images ![Island](https://github.com/Premachu/earthsea/blob/gh-pages/Rplot01.png?raw=true)
