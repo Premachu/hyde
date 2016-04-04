@@ -25,4 +25,7 @@ This is my CV
 
 The header/sidebar should now have a link to your CV
 
+## Adding download
+
+If you want to add a download, i.e. a PDF of your CV, rather than MD file, then don't add ".md" extension onto the end of your file and it will be a download link. 
 
