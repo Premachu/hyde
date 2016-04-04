@@ -23,7 +23,7 @@ Next we need to edit a 3 HTML files.
 
 We're going to add the line "{{ site.baseurl }}" which seems to be missing and nececessary 
 
-* *index.html*
+* **index.html**
 
 First go to index.html and add {{ site.baseurl }} to line 10 (post title href)
 
@@ -32,7 +32,7 @@ First go to index.html and add {{ site.baseurl }} to line 10 (post title href)
       <a href="{{ site.baseurl }}{{ post.url }}">
 ```
 
-* *post.html*
+* **post.html**
 
 Locate post.html in the `layouts` folder.
 
@@ -43,7 +43,7 @@ Add {{ site.baseurl}} to line 17
           <a href="{{ site.baseurl }}{{ post.url }}">
 ```
 
-* *sidebar.html*
+* **sidebar.html**
 
 Finally, go to sidebar.html in the includes folder and update line 24, adding {{ site.baseurl}} to {{ node.url }}
 
