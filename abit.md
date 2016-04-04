@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive v2. MD
+title: Archive
 ---
 
 ## Blog Posts
