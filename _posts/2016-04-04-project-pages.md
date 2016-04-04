@@ -6,6 +6,12 @@ title: How to get hyde/lanyon working with project pages
 Hyde and lanon are two pretty jekyll themes, however to get them working with project pages as opposed to personal pages, some editing
 needs to be done. 
 
+## Clean up
+
+First of all delete the file `cname` as this is for private domains and not required if we're using github.
+
+Second of all delete `relative_permalinks: false` from line 7 of `config.yml`, as this is no longer supported.
+
 ## Set baseurl 
 
 First, go to `_config.yml` and edit the content for `url` and `baseurl` like so
